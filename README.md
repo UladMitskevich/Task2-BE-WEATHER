@@ -47,3 +47,8 @@ Sample:
 
 - `GET /api/weather`: Retrieves the weather data for all cities in the database.
 - ![image](https://github.com/user-attachments/assets/61232b67-eb46-4a69-a010-5aa12d8181ca)
+
+## Unit Tests
+Added some.
+
+![image](https://github.com/user-attachments/assets/24a3817d-5089-4d8f-af52-c94d52a54f54)
