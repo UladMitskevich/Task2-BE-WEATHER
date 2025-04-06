@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{02EA681E-C7D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{3CB7975D-2B77-447A-B5AE-19DBB2879039}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEATHER.API.Tests", "Tests\WEATHER.API.Tests\WEATHER.API.Tests.csproj", "{7D8210FD-3922-4BEE-9D76-5759C18DBD82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +21,17 @@ Global
 		{72C7427E-E3B6-45B4-B236-3BE4BC9A4470}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72C7427E-E3B6-45B4-B236-3BE4BC9A4470}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72C7427E-E3B6-45B4-B236-3BE4BC9A4470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8210FD-3922-4BEE-9D76-5759C18DBD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8210FD-3922-4BEE-9D76-5759C18DBD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8210FD-3922-4BEE-9D76-5759C18DBD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8210FD-3922-4BEE-9D76-5759C18DBD82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{72C7427E-E3B6-45B4-B236-3BE4BC9A4470} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{7D8210FD-3922-4BEE-9D76-5759C18DBD82} = {3CB7975D-2B77-447A-B5AE-19DBB2879039}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53CFBE1C-8072-47C6-A995-F35CAB3E2F61}

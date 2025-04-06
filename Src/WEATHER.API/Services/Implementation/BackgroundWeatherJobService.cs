@@ -30,6 +30,7 @@ namespace WEATHER.API.Services.Implementation
 
         public async Task GetDataAsync()
         {
+            //DI ...
             var client = _httpClientFactory.CreateClient();
 
             //just simple loop to get all cities
